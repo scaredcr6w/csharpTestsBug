@@ -1,0 +1,4 @@
+/Users/andalevente/Developer/vscode bug/obj/Debug/net8.0/vscode bug.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andalevente/Developer/vscode bug/obj/Debug/net8.0/vscode bug.AssemblyInfoInputs.cache
+/Users/andalevente/Developer/vscode bug/obj/Debug/net8.0/vscode bug.AssemblyInfo.cs
+/Users/andalevente/Developer/vscode bug/obj/Debug/net8.0/vscode bug.csproj.CoreCompileInputs.cache
